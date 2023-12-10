@@ -1,0 +1,4 @@
+name: '{{ name }}'
+version: '{{ version }}'
+main: '{{ group }}.{{ name }}.Main'
+api-version: '1.20'
